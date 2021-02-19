@@ -1,0 +1,40 @@
+ExternalId;Name;DisplayName;ManagerExternalId;ParentExternalId
+EN;;;BurgmansT;BDR
+EN_ADM;Administration;Administration;AmirA;EN
+EN_ADMTEAM;Administration staff;Administration staff;ClaireS;EN_ADM
+EN_ASS;Assembly;Assembly;RashadW;EN_SYSO
+EN_ASSTEAM;Assembly staff;Assembly staff;SophiaR;EN_ASS
+EN_CO;Consultancy & Training;Consultancy & Training;AmirA;EN
+EN_CON;Consultancy;Consultancy;BiancaM;EN_CO
+EN_CONTEAM;Consultancy staff;Consultancy staff;KaitlinH;EN_CON
+EN_DESG;Design;Design;OrsonR;EN_PO
+EN_DESGTEAM;Design staff;Design staff;OlegF;EN_DESG
+EN_DEV;Development;Development;OrsonR;EN_PO
+EN_DEVTEAM;Development staff;Development staff;LacotaB;EN_DEV
+EN_DOC;Documentation;Documentation;OrsonR;EN_PO
+EN_DOCTEAM;Documentation staff;Documentation staff;GabrielL;EN_DOC
+EN_HPD;Helpdesk;Helpdesk;BiancaM;EN_CO
+EN_HPDTEAM;Helpdesk staff;Helpdesk staff;NathanY;EN_HPD
+EN_HR;Human resources;Human resources;AmirA;EN
+EN_HRTEAM;Human resources staff;Human resources staff;XavieraF;EN_HR
+EN_ICT;ICT;ICT;AmirA;EN
+EN_ICTTEAM;ICT staff;ICT staff;BethanyC;EN_ICT
+EN_INK;Purchase;Purchase;RashadW;EN_SYSO
+EN_INKTEAM;Purchase staff;Purchase staff;VladimirA;EN_INK
+EN_KWA;Quality;Quality;OrsonR;EN_PO
+EN_KWATEAM;Quailty staff;Quailty staff;RamaM;EN_KWA
+EN_MAR;Marketing;Marketing;LoisC;EN_SAMA
+EN_MARTEAM;Marketing staff;Marketing staff;BrianS;EN_MAR
+EN_PLA;Schedule;Schedule;BiancaM;EN_CO
+EN_PLATEAM;Schedule staff;Schedule staff;KatoB;EN_PLA
+EN_PO;Product development;Product development;AmirA;EN
+EN_SAB;Sales field service;Sales field service;LoisC;EN_SAMA
+EN_SABTEAM;Sales field service staff;Sales field service staff;SummerH;EN_SAB
+EN_SAI;Sales inside sales;Sales inside sales;LoisC;EN_SAMA
+EN_SAITEAM;Sales inside sales staff;Sales inside sales staff;WalkerC;EN_SAI
+EN_SAMA;Sales & Marketing;Sales & Marketing;AmirA;EN
+EN_SYSO;Systems & Software;Systems & Software;AmirA;EN
+EN_TRA;Training;Training;BiancaM;EN_CO
+EN_TRATEAM;Training staff;Training staff;JessicaS;EN_TRA
+EN_WAR;Warehouse;Warehouse;RashadW;EN_SYSO
+EN_WARTEAM;Warehouse staff;Warehouse staff;LeonardP;EN_WAR

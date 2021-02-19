@@ -1,0 +1,126 @@
+{
+    "personMappings": [
+        {
+            "name": "ExternalId",
+            "mode": "field",
+            "value": "Medewerker",
+            "validation": {
+                "required": true
+            }
+        },
+        {
+            "name": "Name.FamilyName",
+            "mode": "field",
+            "value": "LastName",
+            "validation": {
+                "required": true
+            }
+        },
+        {
+            "name": "Name.FamilyNamePartner",
+            "mode": "field",
+            "value": "PartnerName",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.FamilyNamePartnerPrefix",
+            "mode": "field",
+            "value": "PartnerNamePrefix",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.FamilyNamePrefix",
+            "mode": "field",
+            "value": "NamePrefix",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.Initials",
+            "mode": "field",
+            "value": "Initials",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.NickName",
+            "mode": "field",
+            "value": "NickName",
+            "validation": {
+                "required": true
+            }
+        }
+    ],
+    "contractMappings": [
+        {
+            "name": "Department.DisplayName",
+            "mode": "field",
+            "value": "OrgUnitDesc",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Department.ExternalId",
+            "mode": "field",
+            "value": "Organisatorische_eenheid",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.Fte",
+            "mode": "field",
+            "value": "Aantal_FTE",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "EndDate",
+            "mode": "field",
+            "value": "Einddatum_contract",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "ExternalId",
+            "mode": "complex",
+            "value": "function combineExternalId()\r\n{\r\n    return sourceContract.Medewerker + '_' + sourceContract.Volgnummer_contract;\r\n}\r\n\r\ncombineExternalId()",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "StartDate",
+            "mode": "field",
+            "value": "Begindatum_contract",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Title.ExternalId",
+            "mode": "field",
+            "value": "Functie",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Title.Name",
+            "mode": "field",
+            "value": "FunctionDesc",
+            "validation": {
+                "required": false
+            }
+        }
+    ]
+}

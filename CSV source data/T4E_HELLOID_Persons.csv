@@ -1,0 +1,28 @@
+Medewerker;Nummer;Person_number;Initials;NickName;FirstName;NamePrefix;LastName;Geboortedatum;Geslacht_code;Burgerlijke_staat;PartnerNamePrefix;PartnerName;Naamgebruik_code;Straat;Straat_toevoeging;Huisnummer;Huisnummer_toevoeging;Postcode;Woonplaats;Land;Mobiel_prive;Mobiel_werk;Telefoonnr_prive;Telefoonnr_werk;Email_prive;Email_werk;Geblokkeerd;Datum_in_dienst;Datum_uit_dienst;MultipleContracts;Excluded
+AmirA;7208495;324323754;A.;Amir;Amir;;Atkinson;6-8-1968;M;;;;0;P.O. Box 913, 7519 Nisl Avenue;;21;;9708EI;Kenosha;EN;;;;;;Amir.Atkinson@enyoi.com;FALSE;18-6-2013;;FALSE;0
+AmirB;7208495;324323754;A.;Amir;Amir;;Atkinson;6-8-1968;M;;;;0;P.O. Box 913, 7519 Nisl Avenue;;21;;9708EI;Kenosha;EN;;;;;;Amir.Atkinson@enyoi.com;FALSE;18-6-2013;;FALSE;0
+BethanyC;8061306;159383380;B.;Bethany;Bethany;;Chen;3-8-1990;V;;;;0;Ap #488-9815 Elit, St.;;43;B;5803MD;Lexington;EN;;;;;;Bethany.Chen@enyoi.com;FALSE;1-3-2005;;FALSE;0
+BiancaM;1800393;907675508;B.;Bianca;Bianca;;Munoz;24-3-1982;V;;;Hartman;1;6227 In Street;;19;;9338YX;Covington;EN;;;;;;Bianca.Munoz@enyoi.com;FALSE;13-2-2006;;FALSE;0
+BrianS;7928046;864661085;B.;Brian;Brian;;Schwartz;27-7-1973;M;;;;0;377-9037 Sociis Avenue;;25;;4350RP;Honolulu;EN;;;;;;Brian.Schwartz@enyoi.com;FALSE;6-11-2005;;FALSE;0
+BurtonL;7329106;876844523;B.;Burton;Burton;;Lucas;17-12-1978;M;;;;0;P.O. Box 805, 3567 Mauris Av.;;27;;4849BW;Savannah;EN;;;;;;Burton.Lucas@enyoi.com;FALSE;19-8-2007;;FALSE;1
+ClaireS;7993791;932397030;C.;Claire;Claire;;Sweeney;1-10-1965;V;;;;0;4033 Mauris St.;;86;;1101FC;Rockville;EN;;;;;;Claire.Sweeney@enyoi.com;FALSE;16-2-2013;;FALSE;0
+GabrielL;1764944;759839435;G.;Gabriel;Gabriel;;Landry;23-12-1984;M;;;;0;253-2645 Ante Ave;;49;;3221OB;Atlanta;EN;;;;;;Gabriel.Landry@enyoi.com;FALSE;12-3-2014;;FALSE;0
+HollyM;9650570;345103367;H.;Holly;Holly;van;Medina;19-12-1972;V;;de;Foster;0;5026 Quam St.;;50;;3757VK;Tuscaloosa;EN;;;;;;Holly.Medina@enyoi.com;FALSE;14-6-2015;;FALSE;0
+JessicaS;5321391;295355116;J.;Jessica;Jessica;;Skinner;11-5-1966;V;;;;0;Ap #114-3022 Dolor Ave;;77;;5735ZT;Chesapeake;EN;;;;;;Jessica.Skinner@enyoi.com;FALSE;3-12-2014;;FALSE;1
+KaitlinH;4472793;644717422;K.;Kaitlin;Kaitlin;;Hicks;14-8-1981;V;;;;0;Ap #142-1247 Non Road;;29;;4704EF;Biloxi;EN;;;;;;Kaitlin.Hicks@enyoi.com;FALSE;1-6-2015;;FALSE;0
+KatoB;7117340;587030993;K.;Kato;Kato;;Barnett;3-9-1990;M;;;;0;780-6955 Semper Av.;;26;;5550XO;Philadelphia;EN;;;;;;Kato.Barnett@enyoi.com;FALSE;14-9-2005;;FALSE;0
+KennanR;7081891;439194920;K.;Kennan;Kennan;;Randolph;4-6-1993;M;;;;0;4783 Placerat. Ave;;56;;8433NS;Spokane;EN;;;;;;Kennan.Randolph@enyoi.com;FALSE;11-10-2013;;FALSE;0
+LacotaB;3525443;903679238;L.;Lacota;Lacota;;Brooks;16-1-1977;V;;;Wehl;1;696-2017 At, Av.;;28;;5919DZ;Cambridge;EN;;;;;;Lacota.Brooks@enyoi.com;FALSE;18-1-2013;;FALSE;0
+LeonardP;6233292;788557226;L.;Leonard;Leonard;;Petty;7-9-1973;M;;;;0;Ap #101-7933 Sodales. Rd.;;8;;7403RE;Hattiesburg;EN;;;;;;Leonard.Petty@enyoi.com;FALSE;9-4-2014;;FALSE;0
+LoisC;6296594;731121643;L.;Lois;Lois;;Chase;9-4-1961;V;;;;0;2830 Amet Rd.;;89;;8040MY;San Jose;EN;;;;;;Lois.Chase@enyoi.com;FALSE;11-2-2014;;FALSE;0
+NathanY;3560892;151515313;N.;Nathan;Nathan;;Young;17-4-1974;M;;;;0;6106 Neque. Avenue;;97;;3036MV;Lakewood;EN;;;;;;Nathan.Young@enyoi.com;FALSE;25-1-2016;;FALSE;0
+OlegF;6268741;936393299;O.;Oleg;Oleg;de;Foster;7-12-1970;M;;;;0;4213 Phasellus St.;;77;;4519BZ;Sterling Heights;EN;;;;;;Oleg.Foster@enyoi.com;FALSE;14-3-2006;;FALSE;0
+OrsonR;8092543;122797521;O.;Orson;Orson;;Rodgers;2-8-1985;M;;;;0;489-1471 Arcu St.;;39;;7855KT;Chicago;EN;;;;;;Orson.Rodgers@enyoi.com;FALSE;27-12-2015;;FALSE;1
+RamaM;7145193;381759337;R.;Rama;Rama;;Mclaughlin;4-1-1981;V;;ten;Kate;2;3624 Magna. St.;;38;;9070IN;Wyoming;EN;;;;;;Rama.Mclaughlin@enyoi.com;FALSE;15-8-2013;;FALSE;0
+RashadW;6582099;538469443;R.;Rashad;Rashad;;Wong;11-12-1988;M;;;;0;P.O. Box 426, 7202 Vitae, St.;;34;;8151PP;Gaithersburg;EN;;;;;;Rashad.Wong@enyoi.com;FALSE;7-10-2014;4-8-2015;FALSE;0
+RonanP;5571470;329266528;R.;Ronan;Ronan;;Potter;3-12-1962;M;;;;0;P.O. Box 234, 4123 Curabitur St.;;65;;1635ND;Birmingham;EN;;;;;;Ronan.Potter@enyoi.com;FALSE;19-10-2007;;FALSE;0
+SophiaR;6513108;718064309;S.;Sophia;Sophia;;Reyes;5-4-1978;V;;van der;Horen;3;326-9903 Risus St.;;34;;7251JD;Kansas City;EN;;;;;;Sophia.Reyes@enyoi.com;FALSE;19-7-2005;28-8-2011;FALSE;0
+SummerH;1701641;817275018;S.;Summer;Summer;;Heath;23-5-1962;V;;;;0;5027 Lacinia Av.;;66;;2584TG;Miami;EN;;;;;;Summer.Heath@enyoi.com;FALSE;8-5-2014;;FALSE;0
+VladimirA;2648991;558313202;V.;Vladimir;Vladimir;;Alvarez;19-12-1966;M;;;;0;Ap #297-6394 Pulvinar Street;;67;;1369UM;Bangor;EN;;;;;;Vladimir.Alvarez@enyoi.com;FALSE;17-8-2005;;FALSE;0
+WalkerC;3497590;208950896;W.;Walker;Walker;;Clark;15-9-1986;M;;;;0;P.O. Box 907, 7086 Metus. Rd.;;16;;2399RB;Cheyenne;EN;;;;;;Walker.Clark@enyoi.com;FALSE;17-2-2005;;FALSE;0
+XavieraF;1857464;620544017;X.;Xaviera;Xaviera;;Foley;7-5-1983;V;;;McCain;2;P.O. Box 412, 9179 Proin Av.;;51;;2923FY;Fort Worth;EN;;;;;;Xaviera.Foley@enyoi.com;FALSE;10-5-2006;28-6-2009;FALSE;0

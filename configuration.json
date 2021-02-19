@@ -1,0 +1,32 @@
+[
+  {
+    "key": "path",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Directory containing the source data files",
+      "placeholder": "Please enter the path to your source directory",
+      "description": "Some optional description",
+      "required": true
+    }
+  },
+  {
+    "key": "delimiter",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Field delimiter",
+      "placeholder": "Please enter the delimiter as being used inside your files",
+      "required": true
+    }
+  },
+  {
+    "key": "useConnectorPrimaryPersonCalculation",
+    "type": "checkbox",
+    "defaultValue": false,
+    "templateOptions": {
+      "label": "Connector calculates primary person",
+      "required": false
+    }
+  }
+]
