@@ -8,14 +8,14 @@ The _'HelloID-Conn-Prov-Source-CSV-DEMO'_ connector needs to be executed 'on-pre
 
 ## Table of contents
 
-- Introduction
-- Prerequisites
-- Mappings
-- Setup the PowerShell source connector
+* [Introduction](#introduction)
+* [Prerequisites](#prerequisites)
+* [Mappings](#mappings)
+* [Setup the PowerShell source connector](#setup-the-powershell-source-connector)
 
 ## Introduction
 
-This CSV DEMO system is intended for training purposes only, or can be used as a starting point for your own CSV source system.
+This CSV DEMO system is intended for training purposes only, or can be used as a starting point for building your own CSV source system.
 
 ## Prerequisites
 
