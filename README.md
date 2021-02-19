@@ -10,7 +10,7 @@ The _'HelloID-Conn-Prov-Source-CSV-DEMO'_ connector needs to be executed 'on-pre
 - Introduction
 - Prerequisites
 - Mappings
-- Setup the PowerShell connector
+- Setup the PowerShell source connector
 
 ## Introduction
 
@@ -30,7 +30,7 @@ This CSV DEMO system is intended for training purposes only, or can be used as a
 
 A basic person and contract mapping is provided. Make sure to further customize these accordingly.
 
-## Setup the PowerShell connector
+## Setup the PowerShell source connector
 
 1. Make sure your service account running the 'HelloID provisioning agent' service can access the local directory containing the CSV DEMO data.
 
