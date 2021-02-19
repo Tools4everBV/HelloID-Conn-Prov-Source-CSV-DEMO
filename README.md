@@ -3,7 +3,7 @@
 
 ## This is a work in progress
 
-The _'HelloID-Conn-Prov-Source-CSV-DEMO'_ connector needs to be executed 'on-premises'. Make sure you have a local 'HelloID agent and provisioning agent' running, and that the 'Execute on-premises' switch is toggled.
+The _'HelloID-Conn-Prov-Source-CSV-DEMO'_ connector needs to be executed 'on-premises'. Make sure you have a local 'HelloID provisioning agent' running, and the 'Execute on-premises' switch is toggled on.
 
 ## Table of contents
 
