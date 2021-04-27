@@ -46,3 +46,6 @@ A basic person and contract mapping is provided. Make sure to further customize 
 3. Fill in the required fields on the connectors 'Configuration' tab.
 
 ![image](./assets/config.png)
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
