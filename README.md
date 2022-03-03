@@ -15,7 +15,7 @@ The _'HelloID-Conn-Prov-Source-CSV-DEMO'_ connector needs to be executed 'on-pre
 
 ## Introduction
 
-This CSV DEMO system is intended for training purposes only, or can be used as a starting point for building your own CSV source system.
+This CSV DEMO system is intended for training/demo purposes only, or can be used as a starting point for building your own CSV source system.
 
 ## Prerequisites
 

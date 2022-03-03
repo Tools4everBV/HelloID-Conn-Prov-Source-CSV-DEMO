@@ -4,9 +4,9 @@
     "type": "input",
     "defaultValue": "",
     "templateOptions": {
-      "label": "Directory containing the source data files",
+      "label": "Location containing the source data files",
       "placeholder": "Please enter the path to your source directory",
-      "description": "Some optional description",
+      "description": "Full directory path of the directory containing the source data files",
       "required": true
     }
   },
@@ -16,7 +16,19 @@
     "defaultValue": "",
     "templateOptions": {
       "label": "Field delimiter",
-      "placeholder": "Please enter the delimiter as being used inside your files",
+      "placeholder": "Please enter the delimiter as being used inside the files",
+      "description": "Used delimiter within the source data files",
+      "required": true
+    }
+  },
+  {
+    "key": "dateFormat",
+    "type": "input",
+    "defaultValue": "d-M-yyyy",
+    "templateOptions": {
+      "label": "Date format",
+      "placeholder": "Please enter the date format as being used inside the date fields",
+      "description": "Default input date format as being used inside the source files",
       "required": true
     }
   },
