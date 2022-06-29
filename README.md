@@ -1,6 +1,9 @@
 # HelloID-Conn-Prov-Source-CSV-DEMO
 
-![image](./assets/logo.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69046642/176403100-a4d4dde1-37fd-4e72-806f-9ac39a228c49.png">
+</p>
+
 
 ## This is a work in progress
 
