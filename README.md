@@ -1,7 +1,7 @@
 # HelloID-Conn-Prov-Source-CSV-DEMO
-
+<br />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69046642/176403100-a4d4dde1-37fd-4e72-806f-9ac39a228c49.png">
+  <img src="https://www.tools4ever.nl/connector-logos/csv-logo.png">
 </p>
 
 
