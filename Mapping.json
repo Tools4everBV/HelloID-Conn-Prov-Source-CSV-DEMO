@@ -1,0 +1,182 @@
+{
+    "personMappings": [
+        {
+            "name": "Details.BirthDate",
+            "mode": "field",
+            "value": "DateOfBirth",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.BirthLocality",
+            "mode": "field",
+            "value": "BirthLocality",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.Gender",
+            "mode": "field",
+            "value": "Gender",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Excluded",
+            "mode": "complex",
+            "value": "function checkExclude()\r\n{\r\n    if(source.EmployeeCode === \"AmirA\")\r\n    {\r\n        return true;\r\n    }\r\n    else if(source.Blocked)\r\n    {\r\n        return source.Blocked;\r\n    }\r\n    else\r\n    {\r\n        return false;\r\n    }\r\n}\r\ncheckExclude();",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "ExternalId",
+            "mode": "field",
+            "value": "EmployeeCode",
+            "validation": {
+                "required": true
+            }
+        },
+        {
+            "name": "Name.Convention",
+            "mode": "complex",
+            "value": "function calculateNameConvention()\r\n{\r\n    \r\n    switch(source.PreferredNaming) {\r\n        case '0':\r\n            return 'B';\r\n        break;\r\n        case '1':\r\n            return 'P';\r\n        break;\r\n        default:\r\n            return \"B\";\r\n        break;\r\n    }\r\n}\r\ncalculateNameConvention();",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.FamilyName",
+            "mode": "field",
+            "value": "LastName",
+            "validation": {
+                "required": true
+            }
+        },
+        {
+            "name": "Name.FamilyNamePartner",
+            "mode": "field",
+            "value": "PartnerName",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.FamilyNamePartnerPrefix",
+            "mode": "field",
+            "value": "PartnerNamePrefix",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.FamilyNamePrefix",
+            "mode": "field",
+            "value": "NamePrefix",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.Initials",
+            "mode": "field",
+            "value": "Initials",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Name.NickName",
+            "mode": "field",
+            "value": "NickName",
+            "validation": {
+                "required": true
+            }
+        }
+    ],
+    "contractMappings": [
+        {
+            "name": "Department.ExternalId",
+            "mode": "field",
+            "value": "OrganizationalUnit",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.Fte",
+            "mode": "field",
+            "value": "FTE",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.HoursPerWeek",
+            "mode": "field",
+            "value": "HoursPerWeek",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Details.Sequence",
+            "mode": "field",
+            "value": "ContractSequenceNumber",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "EndDate",
+            "mode": "field",
+            "value": "ContractEndDate",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "ExternalId",
+            "mode": "complex",
+            "value": "function calculateUniqueContractID()\r\n{\r\n    return sourceContract.EmployeeCode + '_' + sourceContract.ContractSequenceNumber\r\n}\r\ncalculateUniqueContractID();",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "StartDate",
+            "mode": "field",
+            "value": "ContractStartDate",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Title.ExternalId",
+            "mode": "field",
+            "value": "FunctionCode",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Title.Name",
+            "mode": "field",
+            "value": "FunctionDescription",
+            "validation": {
+                "required": false
+            }
+        },
+        {
+            "name": "Type.Description",
+            "mode": "field",
+            "value": "EmployeeType",
+            "validation": {
+                "required": false
+            }
+        }
+    ]
+}
